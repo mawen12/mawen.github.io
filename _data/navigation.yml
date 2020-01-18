@@ -48,3 +48,12 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+docs-zh:
+  - title:
+    children:
+      - title: Welcome
+        url: https://mawen12.github.io/2018/07/01/welcome.html
+      - title: Post with Header Image
+        url: https://mawen12.github.io/2018/07/01/header-image.html
+      
